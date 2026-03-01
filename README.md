@@ -7,7 +7,7 @@
 
 ## 🌐 Live Portfolio
 
-🔗 **Live Website:** [https://your-vercel-link.vercel.app  ](https://safeeya-munawwar-portfolio.vercel.app/)
+🔗 **Live Website:** https://safeeya-munawwar-portfolio.vercel.app/
 
 ---
 

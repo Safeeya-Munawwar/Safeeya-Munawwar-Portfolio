@@ -29,17 +29,17 @@ The goal of this portfolio is to demonstrate:
 ## 🛠️ Tech Stack
 
 ### Frontend
-- ⚛️ React 19
-- ⚡ Vite
-- 🎨 Tailwind CSS 4
-- 🎬 Framer Motion
-- 🔄 React Router DOM
-- 🧩 Swiper.js
-- 📊 Chart.js
-- 📄 jsPDF
+- React 19
+- Vite
+- Tailwind CSS 4
+- Framer Motion
+- React Router DOM
+- Swiper.js
+- Chart.js
+- jsPDF
 
 ### State Management
-- 🐻 Zustand
+- Zustand
 
 ### UI & Icons
 - React Icons
@@ -50,15 +50,15 @@ The goal of this portfolio is to demonstrate:
 
 ## ✨ Key Features
 
-✅ Fully responsive (Mobile, Tablet, Desktop)  
-✅ Smooth animations using Framer Motion  
-✅ Dark / Light mode support  
-✅ Animated hero section  
-✅ Projects showcase with live links  
-✅ Certifications & achievements section  
-✅ WhatsApp integrated contact form  
-✅ Modern glassmorphism UI  
-✅ Clean and scalable component structure  
+- Fully responsive (Mobile, Tablet, Desktop)
+- Smooth animations using Framer Motion  
+- Dark / Light mode support
+- Animated hero section
+- Projects showcase with live links
+- Certifications & achievements section
+- WhatsApp integrated contact form
+- Modern glassmorphism UI
+- Clean and scalable component structure  
 
 ---
 

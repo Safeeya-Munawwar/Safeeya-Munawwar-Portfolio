@@ -1,41 +1,64 @@
-# Safeeya Munawwar – Portfolio
+# 👋 Hi, I'm Safeeya Munawwar
 
-A modern, responsive personal portfolio website built using React 19 and Vite.  
-This portfolio showcases my projects, skills, certifications, and contact information with smooth animations and a clean UI design.
-
----
-
-## 🚀 Live Demo
-
-🔗 https://your-vercel-link.vercel.app
+🚀 Full Stack Developer | React Specialist | UI/UX Focused  
+💡 Passionate about building modern, responsive, and user-friendly web applications.
 
 ---
 
-## 🛠️ Built With
+## 🌐 Live Portfolio
 
-- React 19
-- Vite
-- Tailwind CSS 4
-- Framer Motion
-- React Router DOM
-- Swiper.js
-- Chart.js
-- jsPDF
-- Zustand
+🔗 **Live Website:** https://your-vercel-link.vercel.app  
 
 ---
 
-## ✨ Features
+## 🖥️ About This Project
 
-- Fully responsive design
-- Smooth animations using Framer Motion
-- Dark / Light mode support
-- Project showcase with live links
-- Certifications & achievements section
-- Animated hero section
-- Contact form with WhatsApp integration
-- Interactive UI components
-- Clean and modern layout
+This is my personal portfolio website built using modern frontend technologies.  
+It showcases my projects, skills, certifications, and contact information with smooth animations and clean UI design.
+
+The goal of this portfolio is to demonstrate:
+
+- Strong React development skills
+- Clean UI/UX implementation
+- Animation and interaction handling
+- Responsive design principles
+- Professional project structuring
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- ⚛️ React 19
+- ⚡ Vite
+- 🎨 Tailwind CSS 4
+- 🎬 Framer Motion
+- 🔄 React Router DOM
+- 🧩 Swiper.js
+- 📊 Chart.js
+- 📄 jsPDF
+
+### State Management
+- 🐻 Zustand
+
+### UI & Icons
+- React Icons
+- Heroicons
+- Lucide React
+
+---
+
+## ✨ Key Features
+
+✅ Fully responsive (Mobile, Tablet, Desktop)  
+✅ Smooth animations using Framer Motion  
+✅ Dark / Light mode support  
+✅ Animated hero section  
+✅ Projects showcase with live links  
+✅ Certifications & achievements section  
+✅ WhatsApp integrated contact form  
+✅ Modern glassmorphism UI  
+✅ Clean and scalable component structure  
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌐 Safeeya Munawwar – Portfolio
+# Safeeya Munawwar – Portfolio
 
 A modern, responsive personal portfolio website built using React 19 and Vite.  
 This portfolio showcases my projects, skills, certifications, and contact information with smooth animations and a clean UI design.
@@ -117,10 +117,4 @@ Vercel automatically detects Vite configuration.
 
 ---
 
-## ⭐ If You Like This Project
-
-Give it a star ⭐ on GitHub and feel free to connect!
-
----
-
-© 2026 Safeeya Munawwar - Portfolio | Built with ❤️ using React
+© 2026 Safeeya Munawwar - Portfolio | Built with ❤️ using React & Vite

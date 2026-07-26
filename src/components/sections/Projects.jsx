@@ -1,13 +1,21 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Swiper, SwiperSlide } from "swiper/react"; // ✅ ADD THIS
+import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 // Import images
-import agriImg from "../../assets/projects/agri.webp";
+import earthTrailImg from "../../assets/projects/earthtrail.PNG";
+import foundationImg from "../../assets/projects/mnslff.PNG";
+import ghassanImg from "../../assets/projects/ghassan.PNG";
+import ushaImg from "../../assets/projects/usha.PNG";
+import addaImg from "../../assets/projects/adda.PNG";
+import youngzoneImg from "../../assets/projects/youngzone.PNG";
+import earthTripImg from "../../assets/projects/earthtrip.PNG";
+import greennovaImg from "../../assets/projects/greennova.PNG";
+import agriImg from "../../assets/projects/serendib.PNG";
 import netlankatravelsImg from "../../assets/projects/netlanka.webp";
 import hotelImg from "../../assets/projects/hotel.webp";
 import spiceImg from "../../assets/projects/spice.webp";
@@ -31,10 +39,89 @@ import tastyImg from "../../assets/projects/tasty.webp";
 
 const projects = [
   {
+    img: earthTrailImg,
+    title: "Earth Trail",
+    subtitle: "Frontend Travel Website",
+    tech: "React.js, Tailwind CSS",
+    description:
+      "A responsive frontend travel website focused on modern UI/UX and destination presentation.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: ghassanImg,
+    title: "Ghassan Trading",
+    subtitle: "Automotive Spare Parts",
+    tech: "React.js, Node.js, Express, MySQL",
+    link: "https://ghassan.co.kr",
+    description:
+      "A business website for automotive spare parts with product management and responsive interface.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: foundationImg,
+    title: "Minnesota Sri Lanka Friendship Foundation",
+    subtitle: "Organization Website",
+    tech: "React.js, Tailwind CSS",
+    description:
+      "Official website for a non-profit organization highlighting initiatives, programs, and community engagement.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: ushaImg,
+    title: "Usha Garment",
+    subtitle: "Clothing Website",
+    tech: "React.js, Node.js, Express, MySQL",
+    link: "https://ushagarment.com/",
+    description:
+      "A modern garment business website showcasing apparel collections and company information.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: addaImg,
+    title: "Adda Ceylon",
+    subtitle: "Essential Oils Store",
+    tech: "React.js, Node.js, Express, MySQL",
+    link: "https://addaceylon.com/",
+    description:
+      "An online store for premium essential oils and wellness products with responsive design and product management.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: youngzoneImg,
+    title: "Young Zone",
+    subtitle: "Cosmetics E-Commerce",
+    tech: "React.js, Node.js, Express, MySQL",
+    link: "https://youngzone.lk/",
+    description:
+      "An e-commerce website for beauty and cosmetic products with product catalog, categories, and shopping functionality.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: earthTripImg,
+    title: "Earth Trip Ceylon",
+    subtitle: "Travel Website",
+    tech: "React.js, Node.js, Express, MySQL",
+    link: "https://earthtripceylon.com/",
+    description:
+      "A travel booking platform with destination showcases, package listings, and responsive user experience.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
+    img: greennovaImg,
+    title: "GreenNova Sri Lanka Tours",
+    subtitle: "Travel Website",
+    tech: "React.js, Node.js, Express, MySQL",
+    link: "https://greennovasrilankatours.com/",
+    description:
+      "A modern travel and tourism website featuring tour packages, inquiry forms, responsive design, and content management.",
+    note: "Company project – public GitHub not available, private repo only.",
+  },
+  {
     img: agriImg,
-    title: "Agri Marketplace",
+    title: "Serendib Market",
     subtitle: "E-Commerce Platform",
     tech: "React.js, Node.js, Express, MySQL",
+    link: "https://serendibmarket.com",
     description:
       "A full-stack e-commerce platform for agricultural products, featuring user authentication, product listings, and order management. Private project.",
     note: "Company project – public GitHub not available, private repo only.",
@@ -259,7 +346,8 @@ const Projects = () => {
               text-gray-600 dark:text-gray-400 
               leading-relaxed max-w-xl mx-auto"
         >
-          A curated selection of personal and professional projects  <span className="hidden sm:inline">
+          A curated selection of personal and professional projects{" "}
+          <span className="hidden sm:inline">
             <br />
           </span>
           Showcasing creativity, problem-solving, and technical skills

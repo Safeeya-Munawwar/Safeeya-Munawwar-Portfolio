@@ -37,8 +37,8 @@ const professionBadges = [
 export default function Hero() {
   const stats = [
     { label: "Years Experience", value: 3 },
-    { label: "Projects Completed", value: 29 },
-    { label: "Happy Clients", value: 5 },
+    { label: "Projects Completed", value: 25 },
+    { label: "Happy Clients", value: 10 },
     { label: "Tech Stack", value: 15 },
   ];
 
